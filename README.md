@@ -10,9 +10,13 @@ The Excel workbook contains five tables:
 Table	Rows	Description
 
 Patients	15,000	Patient details such as gender, age, city, and age group
+
 Doctors	500	Doctor names, specialties, and department IDs
+
 Departments	10	Hospital department names
+
 Treatments	50	Treatment names and base costs
+
 Visits	100,000	Visit records, diagnoses, dates, treatment costs, and insurance coverage
 
 
